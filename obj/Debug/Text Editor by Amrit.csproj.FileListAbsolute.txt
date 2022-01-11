@@ -1,0 +1,15 @@
+D:\Study\SET\Windows and Mobile Programming\Text Editor by Amrit\bin\Debug\Text Editor by Amrit.exe.config
+D:\Study\SET\Windows and Mobile Programming\Text Editor by Amrit\bin\Debug\Text Editor by Amrit.exe
+D:\Study\SET\Windows and Mobile Programming\Text Editor by Amrit\bin\Debug\Text Editor by Amrit.pdb
+D:\Study\SET\Windows and Mobile Programming\Text Editor by Amrit\obj\Debug\Text Editor by Amrit.csproj.AssemblyReference.cache
+D:\Study\SET\Windows and Mobile Programming\Text Editor by Amrit\obj\Debug\MainWindow.g.cs
+D:\Study\SET\Windows and Mobile Programming\Text Editor by Amrit\obj\Debug\App.g.cs
+D:\Study\SET\Windows and Mobile Programming\Text Editor by Amrit\obj\Debug\Text Editor by Amrit_MarkupCompile.cache
+D:\Study\SET\Windows and Mobile Programming\Text Editor by Amrit\obj\Debug\Text Editor by Amrit_MarkupCompile.lref
+D:\Study\SET\Windows and Mobile Programming\Text Editor by Amrit\obj\Debug\MainWindow.baml
+D:\Study\SET\Windows and Mobile Programming\Text Editor by Amrit\obj\Debug\Text Editor by Amrit.g.resources
+D:\Study\SET\Windows and Mobile Programming\Text Editor by Amrit\obj\Debug\Text_Editor_by_Amrit.Properties.Resources.resources
+D:\Study\SET\Windows and Mobile Programming\Text Editor by Amrit\obj\Debug\Text Editor by Amrit.csproj.GenerateResource.cache
+D:\Study\SET\Windows and Mobile Programming\Text Editor by Amrit\obj\Debug\Text Editor by Amrit.csproj.CoreCompileInputs.cache
+D:\Study\SET\Windows and Mobile Programming\Text Editor by Amrit\obj\Debug\Text Editor by Amrit.exe
+D:\Study\SET\Windows and Mobile Programming\Text Editor by Amrit\obj\Debug\Text Editor by Amrit.pdb
